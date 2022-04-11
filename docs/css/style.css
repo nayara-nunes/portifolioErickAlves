@@ -680,7 +680,7 @@ body{
   background:linear-gradient(to left,#121212, #333333);
   width: 100vw;
   position: relative;
-  bottom:-450%;
+  bottom:-550%;
   left: 0;
   color: var(--cor05);
 }
